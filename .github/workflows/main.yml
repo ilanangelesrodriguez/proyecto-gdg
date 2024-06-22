@@ -1,0 +1,8 @@
+name: saludo en Push
+on: [push]
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+
+    steps:
+    -name: Saludar
