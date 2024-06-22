@@ -1,0 +1,17 @@
+css
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    color: #555;
+}
